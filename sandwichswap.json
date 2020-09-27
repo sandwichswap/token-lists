@@ -1,0 +1,46 @@
+{
+  "name": "SandwichSwap",
+  "logoURI": "https://github.com/sanwichswap/token-lists/raw/master/sandwich02.png",
+  "keywords": ["Defi", "Sushi", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Token",
+      "description": "SandwichSwap Global dex token lists"
+    }
+  },
+  "timestamp": "2020-09-27:20:00+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0xc23f1812a6367250a07b37c9e1be5bd65271f9e5",
+      "symbol": "SWH",
+      "name": "Sandwich Token",
+      "decimals": 8,
+      "logoURI":"https://github.com/sanwichswap/token-lists/raw/master/sandwich02.png",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 8,
+      "logoURI":"https://etherscan.io/token/images/weth_28.png",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0xF123c46a2e06E050944DA848f5394076eE2e0459",
+      "symbol": "USDT",
+      "name": "TetherToken",
+      "decimals": 6,
+      "logoURI":"https://etherscan.io/token/images/tether_32.png",
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 5
+  }
+}
