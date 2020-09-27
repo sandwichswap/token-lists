@@ -15,7 +15,7 @@
       "address": "0x6ff35a865286df456fcc20acefdd0fa5279e0060",
       "symbol": "SWH",
       "name": "Sandwich Token",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI":"https://github.com/sanwichswap/token-lists/raw/master/sandwich02.png",
       "tags": ["defi"]
     },
