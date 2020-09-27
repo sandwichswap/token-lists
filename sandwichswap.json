@@ -24,7 +24,7 @@
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WETH",
       "name": "Wrapped Ether",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI":"https://etherscan.io/token/images/weth_28.png",
       "tags": ["defi"]
     },
