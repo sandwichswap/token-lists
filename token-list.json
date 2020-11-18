@@ -1,18 +1,18 @@
 {
   "name": "SandwichSwap",
   "logoURI": "https://github.com/sanwichswap/token-lists/raw/master/sandwich02.png",
-  "keywords": ["Defi", "Sushi", "curated"],
+  "keywords": ["Defi", "Sandwich", "curated"],
   "tags": {
     "defi": {
       "name": "DeFi Token",
       "description": "SandwichSwap Global dex token lists"
     }
   },
-  "timestamp": "2020-09-27T12:00:00+00:00",
+  "timestamp": "2020-11-18T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x577d3f944020f3a30423a884fabfa58edc0de110",
+      "address": "0x06939667Ee9c89bd351190fd6D002C042cc197Cf",
       "symbol": "SWH",
       "name": "Sandwich Token",
       "decimals": 18,
@@ -41,6 +41,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
